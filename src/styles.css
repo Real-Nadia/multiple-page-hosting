@@ -1,0 +1,43 @@
+body {
+  font-family: "Poppins", sans-serif;
+  margin: 50px;
+  background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+  padding: 30px;
+}
+h1 {
+  font-weight: 700;
+  font-size: 60px;
+  text-align: center;
+  line-height: 80px;
+}
+a {
+  color: rgb(2, 128, 2);
+}
+h2,
+.homepage {
+  text-align: center;
+  margin: 15px;
+}
+
+.croissant-emoji {
+  font-size: 65px;
+}
+.container {
+  margin: 15pxpx;
+  text-align: center;
+}
+.photo {
+  display: flex;
+  justify-content: center;
+}
+.croissant-photo {
+  width: 600px;
+  border-radius: 6px;
+  padding: 6px;
+  background: rgb(194, 192, 194);
+}
+.contact-p {
+  text-align: center;
+  margin: 40px;
+  font-size: 20px;
+}
